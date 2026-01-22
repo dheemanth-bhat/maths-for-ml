@@ -208,3 +208,5 @@ __marimo__/
 
 # Dustbin for unwanted files
 .trash
+
+.vscode
