@@ -12,7 +12,8 @@ W.I.P
 
 This repository covers following concepts in mathematics used for Machine Learning:
 
-1. [Statistics](1_Statistics\README.md)
-2. [Hypothesis Testing](2_Hypothesis_Testing\README.md)
+1. [Statistics](1_Statistics/README.md)
+2. [Hypothesis Testing](2_Hypothesis_Testing/README.md)
+3. [Linear Algebra](3_Linear_Algebra/README.md)
 
 W.I.P
