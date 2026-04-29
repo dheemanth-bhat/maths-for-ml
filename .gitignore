@@ -210,3 +210,6 @@ __marimo__/
 .trash
 
 .vscode
+
+# Skip intermediate .html file when converting .ipynb to .pdf
+*.html
